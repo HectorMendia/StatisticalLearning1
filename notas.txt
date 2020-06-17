@@ -1,3 +1,4 @@
+C:\Users\hecto\Documents\A_MASTER_DS\StatisticalLearning1\github>tensorboard --logdir logs
 
 
 [ 0.12405165 -0.39055778  0.22637251  0.01373164 -0.12890656 -0.05065606
