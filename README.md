@@ -11,3 +11,6 @@ StatisticalLearning1 course
 
 
 <a href="https://github.com/HectorMendia/StatisticalLearning1/blob/master/Tarea4_Fashion_mnist.ipynb">Tarea 4: Fashion mnist</a>
+
+
+<a href="https://github.com/HectorMendia/StatisticalLearning1/blob/master/proyecto.ipynb">Proyecto Final</a>
