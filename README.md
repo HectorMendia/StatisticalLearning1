@@ -14,3 +14,4 @@ StatisticalLearning1 course
 
 
 <a href="https://github.com/HectorMendia/StatisticalLearning1/blob/master/proyecto.ipynb">Proyecto Final</a>
+<a href="https://github.com/HectorMendia/StatisticalLearning1/blob/master/proyecto_fase2.ipynb">Proyecto Final (Parte 2: carga de modelos)</a>
